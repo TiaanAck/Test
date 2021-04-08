@@ -13,6 +13,7 @@
   
   <link rel="manifest" href="https://ayush-kumar-singh.github.io/pwa/manifest.json">
   
+  
 </head>
 <body>
 
@@ -75,6 +76,11 @@
 <!-- Footer -->
 <footer class="container-fluid bg-4 text-center">
   <p>Bootstrap Theme Made By <a href="https://www.w3schools.com">www.w3schools.com</a></p> 
+  
+  <script>if ("serviceWorker" in navigator) {
+  // register service worker
+  navigator.serviceWorker.register("https://ayush-kumar-singh.github.io/pwa/sw.js");
+}</script>
 </footer>
 
 </body>
