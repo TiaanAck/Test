@@ -1,5 +1,5 @@
 {
-  "name": "Sample Progressive Web App",
+  "name": "Sample App",
   "short_name": "PWA",
   "start_url": "index.html",
   "scope": "./",
