@@ -1,6 +1,6 @@
 {
-  "name": "My Fist App",
-  "short_name": "PWA",
+  "name": "Wayter",
+  "short_name": "W8R",
   "start_url": "index.html",
   "scope": "./",
   "icons": [
