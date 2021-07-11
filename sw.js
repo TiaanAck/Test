@@ -1,4 +1,4 @@
-const cacheName = 'PWA';
+const cacheName = 'Wayter';
 const staticAssets = [
  
   './main.css',
